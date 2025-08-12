@@ -37,6 +37,9 @@ Additional files are:
   - Contains several demos that are used in the project.
   - A demo combines the shared logic of a `Sketch` with some custom event handlers and additional game-specific logic.
 
+
+To run do `npm install` then `npm run dev`
+
 ## TODO
 
 - Shuffle animation
